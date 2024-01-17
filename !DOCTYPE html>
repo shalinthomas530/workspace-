@@ -1,0 +1,68 @@
+!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Meow Awesome Portfolio Site 🚀</title>
+</head>
+
+<body>
+
+    <header>
+        <h1> welcome Cat lovers hub🎨</h1>
+        <nav>
+            <img src="images/1.png">
+
+            <!-- Navigation Meanu-->
+
+        </nav>
+    </header>
+    <h1> About my cat lovers website </h1>
+
+    <!-- About Me Section -->
+    <p>Having a cat in the family is very rewarding but is also a big responsibility. Luckily, answers to many of the
+        questions that a pet owner may have can be found on the Internet. In this article, I describe some useful,
+        interesting, and often enjoyable websites for cat lovers. Some of the sites contain miscellaneous information
+        about cats.
+        The others list toxic substances or describe first aid procedures, <a href="https://pethelpful.com">which are
+            both very important topics for pet owners</a>.Although a website may have a helpful overview of a disease or
+        pest problem, a sick or injured cat must see a veterinarian. The vet will offer expert advice as well as provide
+        a diagnosis and treatment that are tailored for the pet's specific situation. The diagnosis and treatment are
+        especially important if the situation is serious or an emergency.
+        A pet owner should know the nearest location of an emergency vet and the times that their office is open.
+        <br>
+        <img src="images/cat-codespace.png">
+
+    <section id="">
+    </section>
+
+    <!-- Skills Section -->
+    <ul style="list-style-type: square">im a very big cat lover and im always willing to learn new ways about them</ul>
+    <ul style="list-style-type: square">im a very good worker with any type of animal </ul>
+    <ul style="list-style: square">love learning new experiences and studying new animals and how they work and what
+        they eat .</ul>
+    <section id="">
+    </section>
+
+    <!-- Portfolio Section -->
+    <section id="">
+        <h2>Catfolio</h2>
+        <table> my cat websites has many different elements to it which represents the cat lovers which gives a detailed
+            explaintion
+            about cats and as to why cat websites are so important
+        </table>
+    </section>
+
+    <!-- Contact Section -->
+    <name>Name-Shalin </surname>surname-Thomas <email>email-shalinthomas5@gmail.com Contact-0675965379
+            <section id="">
+            </section>
+
+            <!-- Footer -->
+            <img src="images/3.png">
+            <footer>
+            </footer>
+
+</body>
+</ht
