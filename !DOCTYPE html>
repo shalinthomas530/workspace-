@@ -5,6 +5,18 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Meow Awesome Portfolio Site 🚀</title>
+    <style>
+        img {
+            width: 100px;
+            border-radius: 50px;
+            float: left;
+            margin-right: 10px;
+        }
+
+        .username {
+            font-weight: bold;
+        }
+    </style>
 </head>
 
 <body>
@@ -19,15 +31,33 @@
 
         <body>
             <img src="1.png">
-            <p>@catloverswebsite</p>
+            <p class="username">@catloverswebsite</p>
             <p>Here on the cat lovers website we will provide in sites on what there is to know about cats!</p>
         </body>
 
     </header>
 
     <!-- About Me Section -->
+    <style>
+        em {
+            color:red;
+            font-style: normal;
+        }
+    </style>
 
     <section id="">
+       <p> <em>Welcome</em>to our purrfect cat paradise! Our cat website is a delightful haven dedicated to all things feline. Whether you're a devoted cat lover or simply curious about these majestic creatures, our website is the ultimate destination for you. 
+
+        Explore a treasure trove of meow-nificent articles, tips, and tricks on cat care, behavior, and health. From discovering the secrets behind those enchanting "cat zoomies" to understanding the intricate language of whiskers, we've got you covered.
+        
+        Indulge your eyes with our extensive collection of adorable cat photos and videos that are guaranteed to make your heart melt. From playful kittens to wise old cats, every whisker and tail flick will leave you grinning from ear to ear.
+        
+        Looking to add a furry family member to your life? Our website provides valuable information on various cat breeds, helping you find the perfect companion that matches your lifestyle and personality.
+        
+        Join our vibrant and friendly online community of fellow cat enthusiasts, where you can share stories, seek advice, and exchange endless anecdotes about the fascinating lives of our feline friends.
+        
+        So, whether you're seeking cat-related knowledge, seeking adorable entertainment, or simply want to connect with fellow cat fans, our website is the ultimate destination to satisfy your cat cravings. Happy exploring and may your days be filled with endless purrs and headbutts!</p>
+        <a href="https://pethelpful.com">about me</a>
     </section>
 
     <!-- Skills Section -->
@@ -44,13 +74,13 @@
 
     <!-- Contact Section -->
 
-            <section id="">
-            </section>
+    <section id="">
+    </section>
 
-            <!-- Footer -->
+    <!-- Footer -->
 
-            <footer>
-            </footer>
+    <footer>
+    </footer>
 
 </body>
 </ht
